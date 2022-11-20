@@ -1,7 +1,6 @@
 adv_dsi_assignment_1
 ==============================
-
-A short description of the project.
+The project is to predict if a rookie player will last at least 5 years in the NBA league based on their current stats. Different classifiers are explored to get the best prediction model. 
 
 Project Organization
 ------------
